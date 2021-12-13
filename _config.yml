@@ -21,7 +21,7 @@
 title: Rachanon's Web by Jekyll 3SB01
 email: 6210110297@psu.ac.th
 description: >- # this means to ignore newlines until "baseurl:"
-  รายวิชา 3SB01 Modern CMS for Website Generation
+  รายวิชา 240-302 3SB01 Modern CMS for Website Generation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: "6210110297"
