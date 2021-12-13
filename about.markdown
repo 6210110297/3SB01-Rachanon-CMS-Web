@@ -12,8 +12,9 @@ permalink: /about/
 ![My profile pic](https://raw.githubusercontent.com/6210110297/3SB01-Rachanon-CMS-Web/master/pictures/104491575_3163272333732871_7255461651550202179_n.jpg)
   
 # Pupa
-กลุ่มนักศึกษาที่รวมตัวกันพัฒนาตนเองเพื่อเป็น Developer ที่ดี เก็บสะสมประสบการณ์ในการทำงานและพัฒนาทักษะต่างๆ ที่ใช้ในการทำงาน
- 
+กลุ่มนักศึกษาที่รวมตัวกันพัฒนาตนเองเพื่อเป็น Developer ที่ดี เก็บสะสมประสบการณ์ในการทำงาน  
+และพัฒนาทักษะต่างๆ ที่ใช้ในการทำงาน
+
    
 **ทักษะที่ได้รับ**
 - ทักษะการทำงานเป็นทีม
@@ -31,7 +32,7 @@ permalink: /about/
 
 # Events
 - Entrepreneural Ecosystem Development  
-![Entrpreneur pic]()
+![Entrpreneur pic](https://raw.githubusercontent.com/6210110297/3SB01-Rachanon-CMS-Web/master/pictures/131659018_2826696270944305_5767716924144005867_n.png)
 
 # Languages Skills
 - English 3/5

@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rachanon's Web by Jekyll 3SB01
+title: 3SB01 Rachanon's Web with Jekyll
 email: 6210110297@psu.ac.th
 description: >- # this means to ignore newlines until "baseurl:"
   รายวิชา 240-302 3SB01 Modern CMS for Website Generation

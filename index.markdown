@@ -10,7 +10,7 @@ layout: home
 **หัวข้อ** 3SB01 Modern CMS for Website Generation (อ.สุนทร)  
 
 **Features**
-- เข้าไปดูรายละเอียดส่วนตัวได้ที่ About บริเวณแทบด้านบน
+- เข้าไปดูรายละเอียดส่วนตัวได้ที่ [About](./about)
 - สามารถเข้าไปดูโพสบริเวณด้านล่างรูปภาพได้ 
   
 ![Index page pic](https://raw.githubusercontent.com/6210110297/3SB01-Rachanon-CMS-Web/master/pictures/avali_background__starbound__by_iamthecolonel_d7ln7n3-fullview.jpg)  
